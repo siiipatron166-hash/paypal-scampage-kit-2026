@@ -17,7 +17,7 @@ See every feature in action (Login, 2FA, Payment, Backend) in our 2:12 walkthrou
 
 
 ## 🛠️ How to Deploy
-1.  **Frontend:** Download the `demo.html` file and open in any browser.
+1.  **Frontend:** Watch the sreenshots and full youtube showcase or message me on Telegram for a demo.
 2.  **Backend:** Full source code and Telegram bot setup are available via our premium kit.
 3.  **Support:** Need help configuring your backend? Contact us on Telegram.
 
